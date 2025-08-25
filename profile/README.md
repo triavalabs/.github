@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://triavalabs.github.io/assets/img/triavalabs_og_banner.png" width="100%" alt="Triava Labs Banner"/>
 </p>
-# 🌐 Triava Labs
+🌐 Triava Labs
 
 **Designing value in flow — blockchain + AI research, apps, and whitepapers.**
 
