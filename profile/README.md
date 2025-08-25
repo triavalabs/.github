@@ -17,4 +17,4 @@ We explore the harmony of **Tri** (resonance, geometry, balance) and **Ava** (fl
 ## 🌱 Join the Flow
 - 🕊️ [X / Twitter](https://x.com/triavalabs)  
 - 📬 [Email](mailto:triavalabs@gmail.com)  
-- 🌐 Website (coming soon)  
+- 🌐 Website (http://triavalabs.com/)
